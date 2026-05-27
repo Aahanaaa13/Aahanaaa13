@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aahana Mittal</h1>
-<h3 align="center">2nd year batch cse</h3>
+<h3 align="center">4th year batch cse</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aahanaaa13&label=Profile%20views&color=0e75b6&style=flat" alt="aahanaaa13" /> </p>
 
